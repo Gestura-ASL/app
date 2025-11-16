@@ -1,0 +1,11 @@
+[project]
+name = "app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mediapipe>=0.10.21",
+    "streamlit>=1.51.0",
+    "streamlit-webrtc>=0.64.0",
+]
